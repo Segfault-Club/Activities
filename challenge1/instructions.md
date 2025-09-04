@@ -33,9 +33,9 @@ please do not go to #compsci-help for questions related to this. A list of
 resources you may find usefull is linked below:
 
 ### Resources
-1. [Hex-dump]{https://en.wikipedia.org/wiki/Hex_dump}
-2. [git-log (can also do `man git log`)]{https://git-scm.com/docs/git-log}
-3. [GNU binutils (look for objdump)]{https://www.gnu.org/software/binutils/}
-4. [GNU debugger]{https://www.sourceware.org/gdb/documentation/}
-5. [CTFs]{https://ctf101.org/binary-exploitation/buffer-overflow/}
+1. [Hex-dump](https://en.wikipedia.org/wiki/Hex_dump)
+2. [git-log (can also do `man git log`)](https://git-scm.com/docs/git-log)
+3. [GNU binutils (look for objdump)](https://www.gnu.org/software/binutils/)
+4. [GNU debugger](https://www.sourceware.org/gdb/documentation/)
+5. [CTFs](https://ctf101.org/binary-exploitation/buffer-overflow/)
 
