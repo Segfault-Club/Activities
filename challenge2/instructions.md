@@ -1,26 +1,27 @@
-# Challenge 2 is out!
+# The Art of Bad Code
 
-Often times, we find ourselves discussing how to make good code, but how do we
-make bad code? On this challenge, the winner will be the one that makes the
-most unreadable yet usefull oneliner, the rules are as follow:
+We often discuss how to write good code, but what about bad code?
+This time, the goal is to create the most unreadable yet functional one-liner.
 
 
 ## Rules
 
- 1. The language in question must be a scripting language (python, bash, etc)
- 2. You may not do something like `echo 'my code' >code.py && python code.py`
- 3. You may have at most 3 lines of set-up, this are for imports and things of the kind
- 4. The command to run it may also be a oneliner, but no setup is allowed
+1. The language must be a scripting language (e.g., Python, Bash, etc.).
+2. You cannot use tricks like `echo 'my code' >code.py && python code.py`.
+3. You are allowed up to 3 lines of setup for imports or similar preparations.
+4. The main command must be a one-liner, and no additional setup is allowed.
 
 
-## How to submit?
+## Submissions
 
-To submit your code, simply send it in the club's chat. Make sure to enclose the
-code in triple back-ticks ("`") and to enable syntax highlighting. Make sure to
-add a description of what does your code do and how does it do it.
+Submit your code in the club's chat.
+Wrap your code in triple backticks ("```") and enable syntax highlighting.
+Include a description of what your code does and how it works.
 
 
 ## Winners
 
-This challenge doesn't have a winner, but all final attempts should be uploaded
-to the repo, and everyone is welcome to discuss about which oneliner was the best
+There are no official winners for this challenge.
+However, all final submissions will be uploaded to the repository,
+and everyone is encouraged to discuss which one-liner is the best.
+
