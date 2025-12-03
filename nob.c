@@ -74,7 +74,6 @@ int main(int argc, char **argv) {
             }
             i++;
         }
-        i = (i < instructions_sv.count) ? i - 1 : i;
         String_View description = sv_chop_left(&instructions_sv, i);
 
         jim_member_key(&jim, "dir");
