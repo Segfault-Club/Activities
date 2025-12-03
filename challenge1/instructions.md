@@ -1,7 +1,7 @@
 # Simple Capture the Flag
 Dated: Sept 4, 2025
 
-Provided with a [main.hex](./main.hex) file, you are expected to convert it back into an
+Provided with a `main.hex` file, you are expected to convert it back into an
 x86-64 ELF executable for Linux -- for you to find the solution.
 
 This challenge is purposefully made easy - it is our first one! If you're one of
