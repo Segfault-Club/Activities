@@ -1,4 +1,5 @@
 # The Art of Bad Code
+Dated: Sept 11, 2025
 
 We often discuss how to write good code, but what about bad code?
 This time, the goal is to create the most unreadable yet functional one-liner.
