@@ -7,10 +7,9 @@ This time, the goal is to create the most unreadable yet functional one-liner.
 
 ## Rules
 
-1. The language must be a scripting language (e.g., Python, Bash, etc.).
-2. You cannot use tricks like `echo 'my code' >code.py && python code.py`.
-3. You are allowed up to 3 lines of setup for imports or similar preparations.
-4. The main command must be a one-liner, and no additional setup is allowed.
+1. You cannot use tricks like `echo 'my code' >code.py && python code.py`.
+2. You are allowed up to 3 lines of setup for imports or similar preparations.
+3. The main command must be a one-liner, and no additional setup is allowed.
 
 
 ## Submissions
